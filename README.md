@@ -1,1 +1,1 @@
-"# formatDuration" 
+run - node index.js
